@@ -7,3 +7,8 @@
 <p align="center" width="45">
   <img src="https://user-images.githubusercontent.com/84074078/179066253-a32a1e47-cb9e-4b8b-a8a5-f2c27340ac7a.jpg" width="450"/>
 </p>
+
+## How To Run the Script:
+#### * Set an appropriate decrypt password:
+
+
