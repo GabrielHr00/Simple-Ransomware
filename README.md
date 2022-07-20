@@ -14,6 +14,12 @@
 
 ####
 
-- hi
+- Encrypt ONLY files in the current directory by running the python script with Python3:
+<img width="415" alt="Screenshot 2022-07-20 at 16 58 13" src="https://user-images.githubusercontent.com/84074078/180002190-b2ab1399-3818-4ffb-abb9-559f43731a52.png">
+
+
+####
+
+- Hi
 
 
