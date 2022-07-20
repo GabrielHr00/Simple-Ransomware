@@ -9,6 +9,11 @@
 </p>
 
 ## How To Run the Script:
-#### * Set an appropriate decrypt password:
+- Set an appropriate decrypt secret in the "decrypt_malware.py" script (default is hackme2022): 
+<img width="674" alt="Screenshot 2022-07-20 at 16 57 12" src="https://user-images.githubusercontent.com/84074078/180001419-5d0f1c30-5b05-4c24-a825-9530c4f47551.png">
+
+####
+
+- hi
 
 
