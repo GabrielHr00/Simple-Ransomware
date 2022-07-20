@@ -12,6 +12,7 @@
 - Set an appropriate decrypt secret in the "decrypt_malware.py" script (default is hackme2022): 
 <img width="674" alt="Screenshot 2022-07-20 at 16 57 12" src="https://user-images.githubusercontent.com/84074078/180001419-5d0f1c30-5b05-4c24-a825-9530c4f47551.png">
 
+
 ####
 
 - Encrypt ONLY files in the current directory by running the python script with Python3:
@@ -20,6 +21,7 @@
 
 ####
 
-- Hi
+- Decrypt the already encrypted files in the current directory by entering the decrypt secret you set or the defult one (hackme2022):
+<img width="419" alt="Screenshot 2022-07-20 at 16 58 35" src="https://user-images.githubusercontent.com/84074078/180002783-5e75056d-978e-4495-b15b-205932ee3121.png">
 
 
